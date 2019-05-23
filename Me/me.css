@@ -1,0 +1,40 @@
+.tj-head{
+	background: navy;
+	line-height: 46px;
+	text-align : center;
+	padding: 30px;
+	color : #fff;
+}
+body{
+	margin: 0px;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility; 
+	font-family: 'Montserrat', sans-serif; 
+	letter-spacing: 0px; 
+	font-size: 16px; 
+	color: #676b6e; 
+	font-weight: 300;
+	line-height: 30px;
+}
+
+.tj-input{
+	border-radius: 20px;
+	border: rgba(0,0,0,.4) groove;
+	margin: 10px;
+	padding: 20px;
+	outline:none;
+	width:40%;
+	font-size: 24px;
+}
+
+.tj-btn{
+	border-radius: 20px;
+	border: none;
+	margin: 10px;
+	padding: 20px;
+	outline:none;
+	background: navy;
+	width:40%;
+	font-size: 24px;
+	color:#fff;
+}
